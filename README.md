@@ -64,7 +64,8 @@ The goal is to perform **exploratory data analysis (EDA)**, clean the dataset, v
 
 ## 📌 Visual Summary
 
-(Add screenshots of your best 3–4 charts here – e.g., Movies vs TV Shows, Genre distribution, Release trends, Heatmap)
+<img width="883" height="444" alt="image" src="https://github.com/user-attachments/assets/8a1faaea-630e-4cef-ab42-d3c2269b66b2" />
+
 
 ---
 

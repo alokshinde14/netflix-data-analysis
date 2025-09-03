@@ -81,9 +81,3 @@ The goal is to perform **exploratory data analysis (EDA)**, clean the dataset, v
 
 * Dataset from Kaggle
 * Inspiration: Codebasics, Netflix Data Challenges
-
----
-
-✅ With this README, your GitHub repo will look professional and **recruiter-ready**.
-
-Would you like me to also **draft a LinkedIn post caption** (short + engaging) so you can share this project there once your repo is ready?

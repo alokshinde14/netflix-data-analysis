@@ -9,7 +9,7 @@ The goal is to perform **exploratory data analysis (EDA)**, clean the dataset, v
 
 ## 📂 Dataset
 
-* Source: [Netflix Titles Dataset – Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
+* Source: [Netflix Titles Dataset – Kaggle]
 * Columns:
 
   * `show_id` – Unique ID for every show

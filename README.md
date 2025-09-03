@@ -64,7 +64,7 @@ The goal is to perform **exploratory data analysis (EDA)**, clean the dataset, v
 
 ## 📌 Visual Summary
 
-<img width="200" height="150" alt="Screenshot 2025-09-03 152743" src="https://github.com/user-attachments/assets/0b380b98-e086-4e52-a41d-ae946e460014" /><img width="200" height="150" alt="Screenshot 2025-09-03 152814" src="https://github.com/user-attachments/assets/4e8fb3ff-2b7e-4f68-be4b-8430da848e82" /><img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/8a1faaea-630e-4cef-ab42-d3c2269b66b2" />
+<img width="200" height="150" alt="Screenshot 2025-09-03 152743" src="https://github.com/user-attachments/assets/0b380b98-e086-4e52-a41d-ae946e460014" />   <img width="200" height="150" alt="Screenshot 2025-09-03 152814" src="https://github.com/user-attachments/assets/4e8fb3ff-2b7e-4f68-be4b-8430da848e82" />   <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/8a1faaea-630e-4cef-ab42-d3c2269b66b2" />
 
 ---
 

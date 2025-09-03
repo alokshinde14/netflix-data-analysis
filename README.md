@@ -47,7 +47,7 @@ The goal is to perform **exploratory data analysis (EDA)**, clean the dataset, v
    * Ratings distribution across types
    * Pre vs Post Pandemic trends
    * Heatmap of content releases by month & year
-   * Most frequent directors & actors
+
 
 ---
 
